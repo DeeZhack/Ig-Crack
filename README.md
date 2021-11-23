@@ -7,5 +7,6 @@
 cd $HOME
 git clone https://github.com/Dumai-991/Ig-Crack
 cd Ig-Crack
+git pull
 python2 *.py
 ```
